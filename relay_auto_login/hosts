@@ -1,0 +1,6 @@
+group1
+	host1 account1 passwd1
+	host2 account2 passwd2
+group2
+	host1 account1 passwd1
+	host2 account2 passwd2
